@@ -1,0 +1,4 @@
+wallet addy - 2g4in5cggtH6rWgD4p4nmwXfFczyMRH2NeNimeaDRD9q
+candy config - 7tLvmzDKhsgokgARbzUQzW7euKMDcYyWKqZobjqLMbBh
+candy id - kaMnyiQBm9Z9fyghVdMWN94Nz8cJC4xeLmshJZCAPsE
+candy time - 1640717777.309
